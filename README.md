@@ -13,7 +13,9 @@ This repository contains two interactive Dash applications designed to explore a
   - Night skiing availability.
 - Displays resorts dynamically based on user preferences.
 
-  ![alt text](http://url/to/img.png](https://github.com/alibardestani/ResortExplorer-DashApps/blob/master/app1.jpg)
+  ![App 1](http://url/to/img.png](https://github.com/alibardestani/ResortExplorer-DashApps/blob/master/app1.jpg)
+  ![alt text](https://github.com/alibardestani/ResortExplorer-DashApps/blob/master/images/app1.jpg)
+
 
 ### **App 2: Resort Metric Analyzer**
 - Allows comparison of ski resorts using bar charts.
@@ -21,6 +23,6 @@ This repository contains two interactive Dash applications designed to explore a
 - Sorts metrics (e.g., price, total slopes) in ascending or descending order.
 - Highlights the top 10 resorts based on selected criteria.
 
-  ![alt text](http://url/to/img.png)](https://github.com/alibardestani/ResortExplorer-DashApps/blob/master/app2.jpg)
+  ![App 2](http://url/to/img.png)](https://github.com/alibardestani/ResortExplorer-DashApps/blob/master/app2.jpg)
 
 ---
